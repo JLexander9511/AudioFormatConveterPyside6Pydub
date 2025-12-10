@@ -45,3 +45,8 @@ python -m venv venv
 source venv/bin/activate  # En Linux/macOS
 # o
 .\venv\Scripts\activate   # En Windows
+```
+## Creditos
+
+Proyecto hecho como recurso didactico para la materia Lenguajes de programacion II, por el profesor Jesus Piñate
+
