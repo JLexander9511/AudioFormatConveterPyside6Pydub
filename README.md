@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes el contenido completo del README.md listo para copiar y pegar, asegurando el formato Markdown correcto.
-
-Markdown
-
 # 🔊 AudioFormatConverterPySide6Pydub
 
 Un conversor de formatos de audio **multiplataforma** desarrollado con **PySide6** para la interfaz gráfica y **pydub** para el procesamiento de audio.
